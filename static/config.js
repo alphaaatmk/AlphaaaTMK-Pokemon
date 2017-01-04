@@ -2,7 +2,7 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "https://docs.google.com/spreadsheets/d/1Iv6rIhgrscWcDC02qXh4wVNfAAR0XFUn-hxUdfXM3d0/edit?usp=drivesdk";
+var spreadsheetId = "1Iv6rIhgrscWcDC02qXh4wVNfAAR0XFUn-hxUdfXM3d0";
 
 // ***********************************************************************************
 // Position of Breedables, Shinies and Wants worksheet
@@ -21,7 +21,7 @@ var inGameName = "Connor";
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/richi3f";
+var contactUrl = "http://reddit.com/u/alphaaatmk";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
