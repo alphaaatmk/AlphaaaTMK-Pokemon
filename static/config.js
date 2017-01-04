@@ -2,7 +2,7 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o";
+var spreadsheetId = "https://docs.google.com/spreadsheets/d/1Iv6rIhgrscWcDC02qXh4wVNfAAR0XFUn-hxUdfXM3d0/edit?usp=drivesdk";
 
 // ***********************************************************************************
 // Position of Breedables, Shinies and Wants worksheet
@@ -15,8 +15,8 @@ var wantsWorksheet = 3;
 // ***********************************************************************************
 // Your FC and IGN
 // ***********************************************************************************
-var friendCode = "4597-0550-9417";
-var inGameName = "Richie";
+var friendCode = "4957-3070-8195";
+var inGameName = "Connor";
 
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
