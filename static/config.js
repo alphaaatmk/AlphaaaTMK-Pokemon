@@ -2,7 +2,7 @@
 // ID of the Google spreadsheet
 // ***********************************************************************************
 // Make sure your spreadsheet is published (File > Publish to the web…)
-var spreadsheetId = "1Iv6rIhgrscWcDC02qXh4wVNfAAR0XFUn-hxUdfXM3d0";
+var spreadsheetId = "1EZ9yewssxo8n8lAC0K8lnYh3ezCO_avyLZqNN83o40Q";
 
 // ***********************************************************************************
 // Position of Breedables, Shinies and Wants worksheet
